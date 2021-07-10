@@ -12,7 +12,7 @@
   
   
 - 📫 How to reach me:
-  - Discord: IcySnex#3103
+  - Discord: IcySnex#0028
   - YouTube: [IcySnex](https://www.youtube.com/channel/UCiaH5KyxTwmd57tbDLX5gmw)
 
 <!---
