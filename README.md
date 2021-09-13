@@ -2,7 +2,7 @@
 - 👀 Current Projects:
   - [SpotiDown](https://github.com/IcySnex/SpotiDown)
   - HydrazineLauncher
-  - SnexClient-Launcher
+  - SnexClient-DiscordBot
   
   
 - 🌱 Languages I code:
