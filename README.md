@@ -1,7 +1,7 @@
 ## I’m IcySnex 👋
 - 👀 Current Projects:
   - [SpotiDown](https://github.com/IcySnex/SpotiDown)
-  - [SnexClient-Discord Bot](https://github.com/IcySnex/SnexClient-DiscordBot)
+  - HydrazineLauncher
   - SnexClient-Launcher
   
   
