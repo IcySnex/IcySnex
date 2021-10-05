@@ -1,12 +1,10 @@
 ## I’m IcySnex 👋
 - 👀 Current Projects:
-  - [SpotiDown](https://github.com/IcySnex/SpotiDown)
   - [SnexClient-Launcher](https://github.com/SnexClient/SnexClient-Launcher)
   
   
 - 🌱 Languages I code:
-  - VB.net,
-  - C#,
+  - C#/VB.net,
   - Xalm,
   - Html/Css
   
