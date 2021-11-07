@@ -4,7 +4,7 @@
   
   
 - 🌱 Languages I code:
-  - C#/VB.net,
+  - C#,
   - Xalm,
   - Html/Css
   
