@@ -1,6 +1,7 @@
 ## I’m IcySnex 👋
 - 👀 Current Projects:
   - [SnexClient-Launcher](https://github.com/SnexClient/SnexClient-Launcher)
+  - [SpotiDown](https://github.com/IcySnex/SpotiDown)
   
   
 - 🌱 Languages I code:
