@@ -6,10 +6,11 @@
   - [SpotiDown](https://github.com/IcySnex/SpotiDown) - SpotiDown is an app that is designed to download music from Spotify directly to the internal storage.
   
   
-- 🌱 Languages I code:
+- 🌱 Languages & Frameworks I use:
   - C#,
-  - Xalm,
-  - Html/Css
+  - WPF & WinUI 3 (xaml),
+  - ASP.net Core,
+  - Static web Development (HTML/CSS)
   
   
 - 📫 How to reach me:
