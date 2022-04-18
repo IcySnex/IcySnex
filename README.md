@@ -1,10 +1,9 @@
 ## I’m IcySnex 👋
 
 - 👀 Current Projects:
+  - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE versionswitcher and launcher
   - [SpotiDown](https://github.com/IcySnex/SpotiDown) - SpotiDown is an app that is designed to download music from Spotify directly to the internal storage.
-  - [IcyLauncher](https://github.com/IcySnex/IcyLauncher) - A modern & feature rich MC:BE versionswitcher and launcher
   - [IcyBot](https://github.com/IcySnex/IcyBot) - A feature rich Discord-Bot written in C# made for the [IcyCord-Discord-Server](https://discord.gg/Z3PJatGsr5)
-  - *([SnexClient](https://github.com/SnexClient) - SnexClient is a Minecraft Bedrock PvP-Client.) -Not actually working on it*
   
   
 - 🌱 Languages & Frameworks I use:
@@ -16,6 +15,7 @@
   
 - 📫 How to reach me:
   - Discord: IcySnex#0028
+  - Discord-Server: https://discord.gg/Z8kweuryux
   - YouTube: [IcySnex](https://www.youtube.com/channel/UCiaH5KyxTwmd57tbDLX5gmw)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IcySnex&count_private=true&show_icons=true&theme=dark)
