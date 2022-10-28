@@ -1,7 +1,7 @@
 ## I’m IcySnex 👋
 
 - 👀 Current Projects:
-  - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE versionswitcher and launcher
+  - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
   - [SpotiDown](https://github.com/IcySnex/SpotiDown) - SpotiDown is an app that is designed to download music from Spotify directly to the internal storage.
   - [IcyBot](https://github.com/IcySnex/IcyBot) - A feature rich Discord-Bot written in C# made for the [IcyCord-Discord-Server](https://discord.gg/Z3PJatGsr5)
   
