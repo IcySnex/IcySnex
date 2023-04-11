@@ -9,7 +9,8 @@
   
 - 🌱 Languages & Frameworks I use:
   - C#,
-  - WPF & WinUI 3 (xaml),
+  - WinUI 3 & WPF
+  - Xamarin
   - ASP.net Core,
   - Static web Development (HTML/CSS)
   
