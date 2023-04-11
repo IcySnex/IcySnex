@@ -2,10 +2,9 @@
 
 - 👀 Current Projects:
   - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
+  - [InstaTracker](https://github.com/IcySnex/InstaTracker) - Track Instagram followers, following and fans of anyone!
   - [FirebaseAuth](https://github.com/IcySnex/FirebaseAuth) - Secure and easy to use authentication
   - [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) - Access Google reCAPTCHA on all major windows dekstop framwroks
-  - [SpotiDown](https://github.com/IcySnex/SpotiDown) - SpotiDown is an app that is designed to download music from Spotify directly to the internal storage.
-  - [IcyBot](https://github.com/IcySnex/IcyBot) - A feature rich Discord-Bot written in C# made for the [IcyCord-Discord-Server](https://discord.gg/Z3PJatGsr5)
   
   
 - 🌱 Languages & Frameworks I use:
