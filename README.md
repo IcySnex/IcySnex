@@ -1,4 +1,4 @@
-## I’m IcySnex 👋
+## Hello 👋
 
 - 👀 Current Projects:
   - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
