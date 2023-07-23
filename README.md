@@ -16,11 +16,9 @@
 - 📫 How to reach me:
   - Discord: IcySnex#0028
   - Discord-Server: https://discord.gg/Z8kweuryux
-  - YouTube: [IcySnex](https://www.youtube.com/channel/UCiaH5KyxTwmd57tbDLX5gmw)
+  - YouTube: [IcySnex]([https://www.youtube.com/channel/UCiaH5KyxTwmd57tbDLX5gmw](https://www.youtube.com/channel/UCkAQG8OkLKgi_WAR526pd9w))
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IcySnex&count_private=true&show_icons=true&theme=dark)
-
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=IcySnex&theme=dark)
 
 <!---
 IcySnex/IcySnex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
