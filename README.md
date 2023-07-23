@@ -2,9 +2,7 @@
 
 - 👀 Current Projects:
   - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
-  - [InstaTracker](https://github.com/IcySnex/InstaTracker) - Track Instagram followers, following and fans of anyone
   - [FirebaseAuth](https://github.com/IcySnex/FirebaseAuth) - Secure and easy to use authentication
-  - [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) - Access Google reCAPTCHA on all major windows dekstop framwroks
   
   
 - 🌱 Languages & Frameworks I use:
