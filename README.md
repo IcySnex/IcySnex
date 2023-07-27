@@ -2,7 +2,7 @@
 
 - 👀 Current Projects:
   - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
-  - [FirebaseAuth](https://github.com/IcySnex/FirebaseAuth) - Secure and easy to use authentication
+  - [Firebase.Authentication](https://github.com/IcySnex/Firebase.Authentication) - Secure and easy to use authentication
   
   
 - 🌱 Languages & Frameworks I use:
