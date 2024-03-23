@@ -1,8 +1,8 @@
 ## Hello 👋
 
 - 👀 Current Projects:
-  - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
   - [Firebase.Authentication](https://github.com/IcySnex/Firebase.Authentication) - Secure and easy to use authentication
+  - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
   
   
 - 🌱 Languages & Frameworks I use:
@@ -14,9 +14,8 @@
   
   
 - 📫 How to reach me:
-  - Discord: IcySnex#0028
-  - Discord-Server: https://discord.gg/Z8kweuryux
-  - YouTube: [IcySnex]([https://www.youtube.com/channel/UCiaH5KyxTwmd57tbDLX5gmw](https://www.youtube.com/channel/UCkAQG8OkLKgi_WAR526pd9w))
+  - Discord: @icysnex
+  - YouTube: [IcySnex](https://www.youtube.com/@IcySnex)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IcySnex&count_private=true&show_icons=true&theme=dark)
 
