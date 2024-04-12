@@ -1,6 +1,7 @@
 ## Hello 👋
 
 - 👀 Current Projects:
+  - [Musify](https://github.com/IcySnex/Musify) - Easily download music from Spotify & YouTube while saving meta data & lyrics
   - [Firebase.Authentication](https://github.com/IcySnex/Firebase.Authentication) - Secure and easy to use authentication
   - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
   
