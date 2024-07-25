@@ -14,7 +14,7 @@
   - Static web Development (HTML/CSS)
   
   
-- 📫 How to reach me:
+- 📫 Where to find me:
   - Discord: @icysnex
   - YouTube: [IcySnex](https://www.youtube.com/@IcySnex)
 
