@@ -2,8 +2,8 @@
 
 - 👀 Current Projects:
   - [Musify](https://github.com/IcySnex/Musify) - Easily download music from Spotify & YouTube while saving meta data & lyrics
-  - [Firebase.Authentication](https://github.com/IcySnex/Firebase.Authentication) - Secure and easy to use authentication
-  - [IcyLauncher](https://github.com/IcyLauncher) - A modern & feature rich MC:BE version switcher and launcher
+  - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#
+  - [GeniusAPI]([https://github.com/IcySnex/YouTubeMusicAPI](https://github.com/IcySnex/GeniusAPI)) - Allows you to search and fetch track lyrics/genres on Genius.
   
   
 - 🌱 Languages & Frameworks I use:
