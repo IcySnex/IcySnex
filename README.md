@@ -2,14 +2,14 @@
 
 - 👀 Current Projects:
   - [Melora](https://github.com/IcySnex/Melora) - Melora allows you to download all your music from any platform using custom plugins.
-  - [SerienStreamAPI](https://github.com/IcySnex/SerienStreamAPI) - API to search & download series/anime from s.to/aniworld.to
   - [Firebase.Authentication](https://github.com/IcySnex/Firebase.Authentication) - Secure and easy to use authentication for C# and dotnet
  
 - 🛠️ Actively Maintaining:
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#
   - [GeniusAPI](https://github.com/IcySnex/GeniusAPI) - Allows you to search and fetch track lyrics/genres on Genius.
-  - [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) - Access Google reCAPTCHA on all major windows desktop frameworks.
   - [ITunesShortcuts](https://github.com/IcySnex/ITunesShortcuts) - Easily manage your currently playing iTunes track with hotkeys.
+  - [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) - Access Google reCAPTCHA on all major windows desktop frameworks.
+  - [SerienStreamAPI](https://github.com/IcySnex/SerienStreamAPI) - API to search for series/anime from s.to/aniworld.to & download from VOE/Streamtape/Doodstream/Vidoza
   
   
 - 🌱 Languages & Frameworks I use:
