@@ -16,8 +16,7 @@
   - C#,
   - WinUI 3 & WPF
   - Xamarin
-  - ASP.net Core,
-  - Static web Development (HTML/CSS)
+  - Static Web Development (HTML/CSS)
   
   
 - 📫 Where to find me:
