@@ -20,6 +20,7 @@
   
   
 - 📫 Where to find me:
+  - E-Mail: lao43919@gmail.com
   - Discord: @icysnex
   - YouTube: [IcySnex](https://www.youtube.com/@IcySnex)
 
