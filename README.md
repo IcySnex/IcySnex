@@ -9,7 +9,6 @@
   - [GeniusAPI](https://github.com/IcySnex/GeniusAPI) - Allows you to search and fetch track lyrics/genres on Genius.
   - [ITunesShortcuts](https://github.com/IcySnex/ITunesShortcuts) - Easily manage your currently playing iTunes track with hotkeys.
   - [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) - Access Google reCAPTCHA on all major windows desktop frameworks.
-  - [SerienStreamAPI](https://github.com/IcySnex/SerienStreamAPI) - API to search for series/anime from s.to/aniworld.to & download from VOE/Streamtape/Doodstream/Vidoza
   
   
 - 🌱 Languages & Frameworks I use:
