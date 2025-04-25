@@ -1,7 +1,7 @@
 ## Hello 👋
 
 - 👀 Current Projects:
-  - [Velura](https://github.com/IcySnex/Velura) -  Your Personal Media Collection. Streamed Just the Way You Want. *`// currently private`*
+  - [Velura](https://github.com/IcySnex/Velura) -  Your Personal Media Collection. Streamed Just the Way You Want.
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#.
  
 - 🛠️ Actively Maintaining:
