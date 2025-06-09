@@ -3,6 +3,7 @@
 - 👀 Current Projects:
   - [Velura](https://github.com/IcySnex/Velura) -  Your Personal Media Collection. Streamed Just the Way You Want.
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#.
+  - [YouTubeSessionGenerator](https://github.com/IcySnex/YouTubeSessionGenerator) - Generate valid trusted sessions for YouTube including VisitorData, PoTokens & RolloutTokens.
  
 - 🛠️ Actively Maintaining:
   - [Melora](https://github.com/IcySnex/Melora) - Melora allows you to download all your music from any platform using custom plugins.
