@@ -1,7 +1,6 @@
 ## Hello 👋
 
 - 👀 Current Projects:
-  - [Velura](https://github.com/IcySnex/Velura) -  Your Personal Media Collection. Streamed Just the Way You Want.
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#.
  
 - 🛠️ Actively Maintaining:
@@ -12,6 +11,7 @@
   - [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) - Access Google reCAPTCHA on all major windows desktop frameworks.
  
 - 📝 Backlog:
+  - [Velura](https://github.com/IcySnex/Velura) -  Your Personal Media Collection. Streamed Just the Way You Want.
   - [Firebase.Authentication](https://github.com/IcySnex/Firebase.Authentication) - Secure and easy to use authentication for C# and dotnet
   
   
