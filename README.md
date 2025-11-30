@@ -2,6 +2,7 @@
 
 - 👀 Current Projects:
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#.
+  - [FluentTune](https://github.com/IcySnex/FluentTune) - A native YouTube Music desktop client built with C# & WinUI3 - fast, sleek, & modern.
  
 - 🛠️ Actively Maintaining:
   - [YouTubeSessionGenerator](https://github.com/IcySnex/YouTubeSessionGenerator) - Generate valid trusted sessions for YouTube including VisitorData, PoTokens & RolloutTokens.
