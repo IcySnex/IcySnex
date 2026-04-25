@@ -2,7 +2,6 @@
 
 - 👀 Current Projects:
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#.
-  - [CarmineMusic](https://github.com/IcySnex/CarmineMusic) - A native YouTube Music desktop client - fast, sleek, & modern.
  
 - 🛠️ Actively Maintaining:
   - [YouTubeSessionGenerator](https://github.com/IcySnex/YouTubeSessionGenerator) - Generate valid trusted sessions for YouTube including VisitorData, PoTokens & RolloutTokens.
@@ -12,6 +11,7 @@
   - [ReCaptcha.Desktop](https://github.com/IcySnex/ReCaptcha.Desktop) - Access Google reCAPTCHA on all major windows desktop frameworks.
  
 - 📝 Backlog:
+  - [CarmineMusic](https://github.com/IcySnex/CarmineMusic) - A native YouTube Music desktop client - fast, sleek, & modern.
   - [Velura](https://github.com/IcySnex/Velura) -  Your Personal Media Collection. Streamed Just the Way You Want.
   - [Firebase.Authentication](https://github.com/IcySnex/Firebase.Authentication) - Secure and easy to use authentication for C# and dotnet
   
