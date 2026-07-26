@@ -1,6 +1,7 @@
 ## Hello 👋
 
 - 👀 Current Projects:
+  - [SkeleKit](https://github.com/IcySnex/SkeleKit) - A C# UI framework for native iOS: real UIKit controls, no storyboards or constraints, zero boilerplate.
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#.
  
 - 🛠️ Actively Maintaining:
@@ -20,7 +21,7 @@
 - 🌱 Languages & Frameworks I use:
   - C#,
   - WinUI 3 & WPF
-  - Xamarin
+  - .NET for iOS
   - Static Web Development (HTML/CSS)
   
   
