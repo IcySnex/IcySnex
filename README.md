@@ -1,6 +1,7 @@
 ## Hello 👋
 
 - 👀 Current Projects:
+  - [Tintelo](https://github.com/IcySnex/Tintelo) - A simple iOS mood tracker with notes and habit tracker features: A little color, every day.
   - [SkeleKit](https://github.com/IcySnex/SkeleKit) - A C# UI framework for native iOS: real UIKit controls, no storyboards or constraints, zero boilerplate.
   - [YouTubeMusicAPI](https://github.com/IcySnex/YouTubeMusicAPI) - YouTube Music Web API Wrapper for C#.
  
